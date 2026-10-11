@@ -1,2 +1,2 @@
 # infrastruktur-natverksgrunder
-Kurs 2 - Infrastruktur och nätverksgrunder - Grupparbete - Boiler room
+Kurs 2 - Infrastruktur och natverksgrunder - Grupparbete - Boiler room

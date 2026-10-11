@@ -1,3 +1,17 @@
+# Nycklar och hemligheter
+*.pem
+*.key
+id_ed25519*
+id_rsa*
+.env
+*.env
+secrets/
+
+# Trafikfangst och loggar (stora eller kansliga)
+*.pcap
+*.pcapng
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
