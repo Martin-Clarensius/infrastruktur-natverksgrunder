@@ -4,7 +4,7 @@
 ## Team
 | Namn | Roll / ansvar |
 |------|---------------|
-| Martin Clarensius | |
+| Martin Clarensius | Teamöverenskommelse, GitHub, projektbräda, koordinering av Pull Requests | `README.md` |
 | Oliver Lundstedt |Tillgångsförteckning – servrar | `servrar.md` |
 | Per Palmgren | Tillgångsförteckning – tjänster | `portar och protokoll.md` |
 | Mohammed Mirzai | Trafikbaslinje – nätverksflöden | `nätverksflöde.md` |
