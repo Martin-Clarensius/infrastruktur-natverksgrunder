@@ -36,4 +36,3 @@
 
 ## Beslut
 - Vi bestämmer tillsammans. Vid oenighet röstar vi.
-test
