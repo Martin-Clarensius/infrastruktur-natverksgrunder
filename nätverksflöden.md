@@ -13,12 +13,14 @@
 |172.20.1.30|172.20.1.58|53077     |80       | 
 |172.20.1.30|172.20.1.58|54306     |8080     |
 |172.20.1.30|172.20.1.58|31064     |53       |
+
 port 53  DNS, uppslagning av domännamn
 port 8080 alternativ HTTP-port, till exempel för en utvecklingsserver eller proxy.
 9000 är målporten, men vi vet inte vad tjänsten gör bara utifrån portnumret.
 ## Trafikbaslinje – UDP
 
-| Källa (IP) | Mål (IP) | Källport | Målport |
+| Källa (IP) | Mål (IP)  | Källport | Målport |
+| ---------- | --------- | -------- | ------- |
 |172.20.1.30 |185.12.64.1|35303    |   53    |
 |172.20.1.30 |185.12.64.1|39310    |   53    |
 |172.20.1.30 |185.12.64.1|45432    |   53    |
@@ -35,7 +37,8 @@ port 53  DNS, uppslagning av domännamn
 
 | Källa (IP) | Mål (IP) | Källport | Målport |
 | ---------- | -------- | -------- | ------- |
-|172.20.1.30|172.20.1.58|37520     |9000     |
+|172.20.1.30 |172.20.1.58|37520    |9000     |
 
 9000 är målporten, men vi vet inte vad tjänsten gör bara utifrån portnumret.
+
 
