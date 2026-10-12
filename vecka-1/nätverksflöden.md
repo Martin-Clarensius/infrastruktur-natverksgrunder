@@ -40,5 +40,3 @@ port 53  DNS, uppslagning av domännamn
 |172.xx.x.xx |172.xx.x.xx|37520    |9000     |
 
 9000 är målporten, men vi vet inte vad tjänsten gör bara utifrån portnumret.
-
-
