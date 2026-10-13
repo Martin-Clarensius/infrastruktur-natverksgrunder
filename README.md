@@ -8,12 +8,12 @@
 | Oliver Lundstedt |Tillgångsförteckning – servrar | `servrar.md` |
 | Per Palmgren | Tillgångsförteckning – tjänster | `portar och protokoll.md` |
 | Mohammed Mirzai | Trafikbaslinje – nätverksflöden | `nätverksflöde.md` |
-| Liibaan Abdulle | Trafikbaslinje – analys och belägg | `/docs/trafikanalys.md` |
+| Liibaan Abdulle | Trafikbaslinje – analys och belägg | `trafikanalys.md` |
 
 ## Kommunikation
-- Kanal: Slack / Discord
+- Kanal: Slack (lärarfrågor) / Discord (allt annat)
 - Vi svarar inom: 2 timmar under lektionstid
-- Frågor och blockerare tas upp direkt i kanalen
+- Frågor och problem tas upp direkt i kanalen
 
 ## Arbetssätt
 - Vi delar upp uppgifterna och skriver vem som gör vad
