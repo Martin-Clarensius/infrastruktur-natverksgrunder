@@ -1,6 +1,5 @@
 # Infrastruktur och nätverksgrunder
 # Teamöverenskommelse – Boiler Room (Zonuppdraget)
-
 ## Team
 | Namn | Roll / ansvar |
 |------|---------------|
