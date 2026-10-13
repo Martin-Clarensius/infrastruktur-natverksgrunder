@@ -9,6 +9,13 @@
 | Mohammed Mirzai | Trafikbaslinje – nätverksflöden | `nätverksflöde.md` |
 | Liibaan Abdulle | Trafikbaslinje – analys och belägg | `trafikanalys.md` |
 
+## Roller 
+Martin - Facilitator 
+Liban - Tidshållare
+Per - Kundensröst
+Oliver - Presentatör
+Mohammed - 
+
 ## Kommunikation
 - Kanal: Slack (lärarfrågor) / Discord (allt annat)
 - Vi svarar inom: 2 timmar under lektionstid
